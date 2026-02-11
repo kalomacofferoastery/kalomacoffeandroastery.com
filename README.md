@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -101,7 +100,7 @@
             background: #ffffff;
         }
         
-        .logo img {
+        .logo ![Uploading image.png…]() {
             width: 100%;
             height: 100%;
             object-fit: cover;
